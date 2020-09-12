@@ -1,0 +1,22 @@
+div {font-weight: bold;}
+h1 {color: red;}
+p {color: black;}
+a:hover {color: red;}
+.meme_top {
+				position: relative;
+				padding: 10px;
+				top:120px;
+				font-size: 80px;
+				color: cyan;
+				font-family: Impact;
+				text-shadow: 2px 2px #000000;
+			}
+.meme_bottom {
+				position: relative;
+				padding: 10px;
+				bottom:80px;
+				font-size: 35px;
+				color: cyan;
+				font-family: Charcoal;
+				text-shadow: 2px 2px #000000;
+			}
